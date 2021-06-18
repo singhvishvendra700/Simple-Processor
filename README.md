@@ -1,4 +1,4 @@
-# Basic-Processor
+# Simple-Processor
 
 Main components:
 1. Processor.v
